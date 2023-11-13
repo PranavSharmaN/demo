@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 bbb
 roti
+=======
+rrr
+temper
+asvr
+jlk
+>>>>>>> movies
